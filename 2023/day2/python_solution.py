@@ -1,4 +1,4 @@
-f = open(r"C:\Users\dggyi\Documents\adventofcode\day2\data.txt")
+f = open(r"2023\day2\data.txt")
 data = f.read()
 data = data.split("\n")
 
@@ -34,6 +34,7 @@ for i, game in enumerate(data):
                     greens += [current_colour]
                 if colour == "blue":
                     blues += [current_colour]
+                print(current_colour)
     all_scores.append((max(reds), max(greens), max(blues)))
 
 
