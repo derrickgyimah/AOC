@@ -1,4 +1,4 @@
-f = open(r"data.txt")
+f = open(r"AOC/2023/day1/data.txt")
 data = f.read()
 data = data.split("\n")
 
