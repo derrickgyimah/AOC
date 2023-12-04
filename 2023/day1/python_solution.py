@@ -1,4 +1,4 @@
-f = open(r"C:\Users\dggyi\Documents\adventofcode\day1\data.txt")
+f = open(r"data.txt")
 data = f.read()
 data = data.split("\n")
 
