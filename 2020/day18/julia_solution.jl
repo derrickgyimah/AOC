@@ -1,0 +1,1 @@
+# Julia solution for day 18 in year 2020

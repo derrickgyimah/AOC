@@ -1,0 +1,1 @@
+# Python solution for day 25 in year 2022

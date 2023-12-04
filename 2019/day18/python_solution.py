@@ -1,0 +1,1 @@
+# Python solution for day 18 in year 2019
