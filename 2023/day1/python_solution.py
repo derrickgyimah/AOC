@@ -38,7 +38,6 @@ print(total1)
 
 
 # Part 2
-striped_strings = []
 for i, string in enumerate(data):
     while not any(string.startswith(str(i)) for i in mapping.keys()):
         string = string[1:]
