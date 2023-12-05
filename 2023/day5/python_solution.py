@@ -1,1 +1,5 @@
-# Python solution for day 5 in year 2023
+from collections import defaultdict
+f = open(r"2023\day5\data.txt")
+data = f.read()
+data = data.split("\n")
+
