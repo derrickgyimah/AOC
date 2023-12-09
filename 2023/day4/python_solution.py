@@ -1,6 +1,6 @@
 import re
 from collections import defaultdict
-f = open(r"C:\Users\dggyi\Documents\adventofcode\day4\data.txt")
+f = open(r"2023\day4\data.txt")
 data = f.read()
 data = data.split("\n")
 

@@ -27,13 +27,7 @@ print("Part 1 : ",ans1)
 
 
 
-for i,line in enumerate(data):
-    
-    for check in data:
-        total = 0
-        for l in range(len(check)):
-            if check[l]  != data[l]:
-                total += 1
-        if total == 1:
-            print(i,line) 
-                
+for x in data:
+    for i in range (26):
+        x[i] == 0
+        print(x[7])

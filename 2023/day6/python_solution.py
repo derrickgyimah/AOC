@@ -16,7 +16,6 @@ for i,t in enumerate(time):
             
 print("Part 1 : ", scores[0]*scores[1]*scores[2]*scores[3])
 
-
 Time = 52947594
 Distance = 426137412791216
 
